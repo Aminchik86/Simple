@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    font-family: Questrial,'Helvetica Neue',Arial,sans-serif;
+    background: url(../images/bg/1626348980_2-kartinkin-com-p-temnaya-stena-fon-krasivo-2.jpg);
+    background-repeat:no-repeat;
+    background-size: 1920px;
+    height: 937px;
+}
+
+
+
+.simple h1 {
+    font-family: 'Dancing Script',cursive;
+    font-size: 53px;
+    display: flex;
+    justify-content: center;
+    margin-top: 310px;
+    color: #fff;
+}
+
+.simple p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    color: #fff;
+}
+
+.list-menu ul {
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    margin-left: 270px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#list {
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    margin-top: 34px;   
+}
+
+.list-menu img {
+    width: 250px;
+    height: 100px;
+}
+
+.btn {
+    margin: 20px;
+    margin-left: 820px;
+}
+
+.btn button {
+    width: 124px;
+    height: 24px;
+    background-color: #808080;
+    border: 2px solid #404040;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.bg {
+    padding: 150px;
+    font-family: Questrial,'Helvetica Neue',Arial,sans-serif;
+    background-color: #333333;
+}
+
+.bg h1 {
+    display: flex;
+    justify-content: center;
+    color: #9c27b0; 
+    font-size: 50px;
+}
+
+.bg p {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 19px;
+}
+
+.btn1 button {
+    margin: 14px;
+    display: flex;
+    justify-content: center;
+    margin-left: 700px;
+    border-radius: 50px;
+    width: 200px;
+    height: 43px;
+    font-size: 28px;
+    border: 4px solid #808080;
+}
+
+.flx {
+    background-color: #282828;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flx h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 42px;
+    color: #9c27b0;;
+}
+
+.icons img {
+    width: 60px;
+    padding: 60px;
+    margin-left: 350px;
+}
+
+.text h3 {
+    color: #fff;
+    text-align: center;
+    margin-left: 40px;
+}
+
+#images {
+    width: 500px;
+    padding: 80px;
+    border: 2px solid #000;
+    padding: 15px;
+    background: #666;
+    margin-right: 107px;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+.feat {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.feat h1 {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    border: 2px solid #000;
+}
+
+.feat p {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 33px;
+}
+
+.free p {
+    margin-top: 64px;
+}
+
+.uni p {
+    margin-top: 30px;
+    margin-right: 35px;
+}
+
+.popular p {
+    margin-top: 45px;
+    margin-left: 170px;
+}
+
+.tested p {
+    margin-left: 70px;
+}
+
+.getstandart {
+    background-color: #000;
+    color: #fff;
+}
+
+.getstandart h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+}
+
+.btn3 button {
+    margin-left: 880px;
+    width: 150px;
+    height: 80px;
+    border: solid 3px #282828;
+    border-radius: 50px;
+}
+
+.taxt p {
+    color: #fff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 1px;
+}
+
+.footer {
+    background: #282828;
+    color: #fff;
+    font-size: 34px;
+    text-align: center;
+    padding: 40px;
+}
+
+.footer input {
+    border-radius: 4px;
+    border: 3px solid #000;
+    width: 150px;
+    height: 20px;
+    background-color: #333333;
+}
+
+#message {
+    margin-right: 60px;
+    width: 600px;
+    height: 200px;
+}
+
+.btn5 button {
+    margin: 34px;
+    margin-right: 80px;
+    width: 215px;
+    height: 56px;
+    border-radius: 60px;
+    border: 4px solid #000;
+    background-color: #999999;
+}
+
+.footerr {
+    margin: 0;
+    background-color: #000;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.footerr p {
+    display: flex;
+    text-align: left;
+    color: #fff;
+    font-size: 45px;
+    margin-left: 5px;
+}
+
+#footerid {
+    display: flex;
+    text-decoration: none;
+    color: #9c27b0;
+    margin-left: 6px;
+}
+.footerr input {
+    display: flex;
+    margin-left: 85%;
+    width: 116px;
+    height: 50px;
+    border-radius: 60px;
+    border: 4px solid #fff;
+    background-color: #000000;
+    text-align: center;
+}
+
+.net img {
+    width: 64px;
+    height: 64px;
+    margin-left: 400px;
+}
+
+#inst {
+    height: 55px;
+    margin-top: 15px;
+}
